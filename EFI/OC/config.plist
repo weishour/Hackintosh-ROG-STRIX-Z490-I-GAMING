@@ -890,7 +890,7 @@
 				<string>System/Library/Extensions/IONetworkingFamily.kext</string>
 				<key>Comment</key>
 				<string></string>
-				<key>Enabled</key>
+				<key>Disabled</key>
 				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/IONetworkingFamily</string>
@@ -1530,7 +1530,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K151500J9K3F7JC</string>
+			<string>C02001200J900001H</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1540,11 +1540,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacPro7,1</string>
+			<string>iMac20,2</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KGVHZFP7QM</string>
+			<string>C02C2EY0046M</string>
 			<key>SystemUUID</key>
-			<string>C37572E7-4965-4D90-8E4D-4A89680B9D37</string>
+			<string>6244451F-74B7-4525-B2C5-2297623FBC3D</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
